@@ -5,17 +5,17 @@ This repository documents my journey learning C# — the concepts I've studied, 
 ## Resources I'm Following
 
 ### 📘 Book
-**C# Player's Guide (5th Edition)**
+**[C# Player's Guide (5th Edition)](https://csharpplayersguide.com/TheCSharpPlayersGuide-5thEdition-Sample.pdf)**
 Used as my primary reference for core language concepts, syntax, and best practices.
 
 ### 🎥 Course
-**C# Mastercourse (Udemy)** by Tim Corey
+**[C# Mastercourse](https://courses.iamtimcorey.com/courses/1577707/lectures/36725800)** by Tim Corey
 Followed for hands-on, project-based learning and to reinforce concepts from the book with real-world application.
 
 ### 📝 Notes & Documentation
 I maintain detailed notes, explanations, and summaries of what I learn in a Google Doc:
 
-[![C# Learning Notes](https://img.shields.io/badge/📄_C%23_Learning_Notes-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1CQDqyYL-nHcuvScCh8rPMf-yMqcQiLlfomHZtbQD_oc/edit?tab=t.0)
+[![C# Learning Notes](https://img.shields.io/badge/📄_C%23_Learning_Notes-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](PASTE_YOUR_GOOGLE_DOC_LINK_HERE)
 
 ## What's in This Repo
 
