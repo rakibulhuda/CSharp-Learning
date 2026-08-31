@@ -1,4 +1,4 @@
-namespace Topics.TodoList;
+namespace Topics.Projects.TodoList;
 
 public class MyList
 {

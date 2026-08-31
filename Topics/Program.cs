@@ -1,10 +1,11 @@
-﻿using Topics.TodoList;
+﻿using Topics.Basics;
+using Topics.Projects.TodoList;
 
-class Program
+internal class Program
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
-        Console.WriteLine("Hello Main here!");
-        MyList.print();
+        // MyList.Print();
+        Variables.Practice();
     }
 }

@@ -1,0 +1,10 @@
+// SHORTCUTS
+1. (ctrl + d) duplicates line
+2. (alt + enter) quick fix 
+3. (ctrl + shift + f) find in file
+
+// REMEMBER
+1. PascalCase for class, method names, constant
+2. CamelCase for local variables
+3. Methods are verbs/actions
+4. for float, double explicitly declare(ex: float = 3.2f, double = 5.3m)
