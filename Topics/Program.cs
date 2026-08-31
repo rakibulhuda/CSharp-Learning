@@ -1,5 +1,4 @@
 ﻿using Topics.Basics;
-using Topics.Projects.TodoList;
 
 internal class Program
 {
